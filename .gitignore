@@ -1,0 +1,17 @@
+# Dépendances Node.js
+node_modules/
+
+# Caches
+.cache/
+Frontend/node_modules/
+Backend/node_modules/
+Frontend/.cache/
+
+# Environnements
+.env
+
+# Bases de données locales
+*.sqlite
+
+dist/
+build/ 
